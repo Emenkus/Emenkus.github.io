@@ -1,0 +1,15 @@
+*{
+margin: 0px;
+}
+
+h1 {
+font-size: 60px;
+color: blue;
+background-color: red;
+text-align: center;
+
+}
+p {
+color:#666;
+text-align:center;
+}
